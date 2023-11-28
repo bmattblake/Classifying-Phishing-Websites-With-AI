@@ -1,1 +1,1 @@
-# Detecting-Phishing-Websites-With-AI
+# Classifying-Phishing-Websites-With-AI
