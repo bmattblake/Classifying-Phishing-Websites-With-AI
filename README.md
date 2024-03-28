@@ -1,6 +1,6 @@
 # Classifying-Phishing-Websites-With-AI
 
-**The challenge we are addressing involves how we can effectively differentiate between legitimate websites and phishing websites.** In the modern digital landscape, users routinely use websites for a multitude of purposes; thus, online security is paramount.
+**The challenge I am addressing involves how we can effectively differentiate between legitimate websites and phishing websites.** In the modern digital landscape, users routinely use websites for a multitude of purposes; thus, online security is paramount.
 
 Phishing is a form of cybercrime that entails building deceptive websites to deceive users into divulging sensitive information, engaging in harmful actions, or falling victim to fraudulent activities.
 
