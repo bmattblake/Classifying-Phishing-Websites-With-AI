@@ -23,3 +23,5 @@ There are a few research questions that we have at the start of our project:
 2. What features are the most important in distinguishing between legitimate and phishing websites?
 3.  How can this model be optimized so that it can keep up with phishing tactic development over time?
 4.   What are the practical implications and limitations of implementing machine learning-based phishing detection in the real world?
+
+[1] Anti-Phishing Working Group. (2022, December 12). Phishing Attack Trends Report - 3Q 2022. https://apwg.org/trendsreports/.
